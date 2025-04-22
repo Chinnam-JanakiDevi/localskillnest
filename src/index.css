@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff7f1;
+  color: #333;
+}
+
+.page {
+  padding: 20px;
+}
+
+a {
+  color: #f36f3f;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
