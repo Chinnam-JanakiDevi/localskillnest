@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import bannerImage from '../assets/banner1.jpg';
+import bannerImage from '../assets/banner2.jpg';
 
 const Home = () => {
   return (
@@ -11,13 +11,14 @@ const Home = () => {
           <h1>If you have a skill</h1>
           <p>Register in below link with your skill and location</p>
           <a
-            href="https://yourformlink.com"
+            href="https://forms.gle/NJcJrHAghvT8ffyz6"
             className="cta-button"
             target="_blank"
             rel="noopener noreferrer"
           >
             Register as a Professional
           </a>
+          <h2>App is going to launch very soon.stay tuned..</h2>
         </div>
       </section>
     </div>
